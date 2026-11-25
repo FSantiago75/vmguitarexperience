@@ -1,0 +1,545 @@
+{
+  "schemaVersion": "1.0",
+  "sourceUrl": "https://vmguitarexperience.com/",
+  "capturedAt": "2026-11-24",
+  "scope": "Conteúdo e assets mapeados para a landing page e suas referências públicas. Textos transcritos do conteúdo renderizado; grafia, pontuação e erros originais foram preservados.",
+  "site": {
+    "name": "Victor Manoel – Official Website",
+    "tagline": "Mergulhe como nunca nos estudos de guitarra!",
+    "phone": "11-9-6574-8539",
+    "email": "contato@vmguitarexperience.com",
+    "facebook": "https://www.facebook.com/victormanoelguitar",
+    "whatsapp": "https://wa.me/5511965748539",
+    "navigation": [
+      {
+        "label": "Contato",
+        "href": "/contato/"
+      },
+      {
+        "label": "Curso de Guitarra",
+        "href": "/curso-de-guitarra/"
+      },
+      {
+        "label": "Fotos",
+        "href": "/fotos/"
+    }
+    ],
+    "footer": "Copyright © 2026 Victor Manoel – Official Website | Consultare by Firefly Themes",
+    "ui": {
+      "menu": "Menu",
+      "topBar": "Top Bar",
+      "search": "Search...",
+      "submit": "Submit",
+      "facebook": "Facebook",
+      "emailPrefix": "E-mail:",
+      "chatLabel": "JivoChat",
+      "backToTop": "Back to top",
+      "contactForm": {
+        "name": "Your name",
+        "email": "Your email",
+        "subject": "Assunto",
+        "message": "Your message (optional)",
+        "submitNotice": "Seu aplicativo de e-mail será aberto para enviar a mensagem."
+      },
+      "comments": {
+        "heading": "Deixe um comentário",
+        "notice": "O seu endereço de email não será publicado. Campos obrigatórios marcados com *",
+        "comment": "Comentário *",
+        "name": "Nome *",
+        "email": "Email *",
+        "website": "Site",
+        "remember": "Guardar o meu nome, email e site neste navegador para a próxima vez que eu comentar.",
+        "submit": "Publicar comentário",
+        "unavailable": "Comentários não estão conectados a um serviço de publicação nesta versão. Entre em contato pelo formulário."
+      }
+    }
+  },
+  "pages": [
+    {
+      "route": "/",
+      "title": "Victor Manoel - Official Website - Mergulhe como nunca nos estudos de guitarra!",
+      "pageTitle": "Victor Manoel – Official Website",
+      "sourceText": "Aulas de Música\nAulas de Guitarra\n10/01/2022VictorM Leave a Comment\non Aulas de Guitarra\n\nAulas de guitarra – Aulas em Jundiaí-SP e online em todo Brasil! Como Surgiu? Ao…\nContinue reading\nAulas de Guitarra\n\nCursos\n\nAulas de guitarra e aulas de violão presenciais na cidade de Jundiaí e/ou região e online em tempo real em qualquer lugar do Brasil!\n\nBiografia\n\nIngressei no mundo da guitarra quando criança há 16 anos atrás. Desde então atuei em diversas bandas, trabalhos freelancer, gravações e também como professor de música, trabalho esse que já me dedico a 8 anos.",
+      "sourceImages": [
+        "victor-aulas-de-guitarra.jpg"
+      ],
+      "notes": "Landing page: excerpt + widgets Cursos e Biografia; shared site title/tagline are in site.header."
+    },
+    {
+      "route": "/curso-de-guitarra/",
+      "title": "Curso de Guitarra - Victor Manoel - Official Website",
+      "pageTitle": "Curso De Guitarra",
+      "sourceText": "Ao longo destes longos anos como professor e guitarrista, aperfeiçoei ao máximo todo o conteúdo que estudei e ensinei, com intuito de criar o material mais eficaz e intuitivo possível para o aprendizado de meus alunos. E vejo o resultado desta dedicação diariamente em minhas aulas com o desenvolvimento exponencial de meus estudantes. O curso abrange grande parte dos estilos mais desejados pelos guitarristas, tais como: Rock, Blues, Pop, Metal, Fusion etc… E também atende pessoas de todas as idades e de todos os níveis de habilidade. Desde o iniciante que está tendo seu primeiro contato com o instrumento, até o músico que deseja aperfeiçoar sua técnica. O material será adaptado de acordo com a idade, nível de habilidade, objetivos e desejos de cada um. Com fim de trazer o melhor e mais eficiente resultado possível para os novos musicistas. A duração do curso completo pode variar de 3 a 5 anos. O tempo varia de aluno para aluno, a depender de sua dedicação e desempenho nas matérias. lembrando que este tempo equivale ao curso completo, abordando todas as matérias (Inclusive as menos usuais e mais complexas.) Provavelmente a maioria daqueles que procuram aprender guitarra por hobbie e sem grandes ambições, cumprirão seus objetivos logo na metade do curso, segui-lo até o fim ou não é opcional.\n\nAtendimento online: Engana-se quem pensa que quem estuda online terá algum tipo de desvantagem em relação a quem estuda presencialmente. Com boa definição de Áudio/Vídeo, compartilhamento de tela e instruções em tempo real, as aulas via vídeo chamada tem a mesma qualidade eficácia das aulas presenciais e no conforto da sua casa. Basta ter um celular ou um computador e agendar um horário para ter um acompanhamento profissional e de excelência!\n\nAtendimento presencial: As aulas de guitarra presenciais acontecem na cidade de Jundiaí e/ou região. \n\nPara mais informações entre em contato comigo através da aba “contato”, através de minhas redes sociais ou pelo whatsapp: 011-9-6574-8539.\n\nSegue a baixo o cronograma do curso completo:",
+      "sourceImages": [
+        "retrato-do-curso.jpg",
+        "cronograma-do-curso-1-1086x1536.png",
+        "cronograma-do-curso-2-1086x1536.png"
+      ]
+    },
+    {
+      "route": "/aulas-de-guitarra/",
+      "title": "Aulas de Guitarra Online e em Jundiaí - Victor Manoel - Official Website",
+      "pageTitle": "Aulas De Guitarra",
+      "sourceText": "Aulas de guitarra - Aulas em Jundiaí-SP e online em todo Brasil!\nComo Surgiu?\n\nAo longo dos vários anos que tenho como professor e guitarrista, aperfeiçoei ao máximo todo o conteúdo que estudei e ensinei, com intuito de criar o material mais eficaz e intuitivo possível para o aprendizado de meus alunos. E vejo o resultado desta dedicação diariamente em minhas aulas com o desenvolvimento exponencial de meus estudantes.\n\nO curso\n\n O curso abrange grande parte dos estilos mais queridos pelos guitarristas, tais como: Rock, Blues, Pop, Metal e Fusion. \n\nQuem pode fazer as aulas?\n\nAtendo pessoas de todas as idades e de todos os níveis de habilidade. Desde o iniciante que está tendo seu primeiro contato com o instrumento, até o guitarrista que já toca a vários anos mas sente-se estagnado e deseja evoluir. O material será adaptado de acordo com a idade, nível de habilidade, objetivos e desejos de cada um. Com fim de trazer o melhor e mais eficiente resultado para aqueles que me procuram.\n\nEm quanto tempo vou aprender a tocar?\n\nIsso é bem relativo. A duração do curso completo pode variar de 3 a 5 anos. O tempo varia de aluno para aluno, a depender de sua dedicação e desempenho nas matérias. lembrando que este tempo equivale ao curso completo, abordando todas as matérias (Inclusive as menos comuns e mais complexas.) Provavelmente a maioria daqueles que procuram aprender guitarra por hobbie e sem grandes ambições, cumprirão seus objetivos logo na metade do curso, e podem decidir se querem continuar aprendendo ou se já estão felizes com o resultado.\n\nVou aprender a tocar músicas no curso?\n\nSem dúvidas! Aprender músicas é uma parte muito importante no estudo de guitarra, e aprenderemos várias ao longo do curso. Elas poderão ser aprendidas em casa, caso o aluno já tenha habilidade para aprende-las sozinho ou durante as aulas com meu auxílio. \n\nAulas de guitarra online\n\nQuem optar por estudar guitarra comigo online não terá nenhum tipo de desvantagem em relação a quem estuda presencialmente. Com boa definição de Áudio/Vídeo, compartilhamento de tela e instruções em tempo real, as aulas por vídeo chamada tem a mesma qualidade das aulas presenciais, e no conforto da sua casa. Basta ter um celular ou um computador e agendar um horário!\n\nAulas de guitarra em Jundiaí\n\nAs aulas de guitarra presenciais acontecem em Jundiaí – SP. Atendo em meu local próprio, oferecendo todo o equipamento necessário durante as aulas. E a domicílio a depender do endereço. \n\nAulas de guitarra para Várzea Pta, Louveira e Campo limpo Pta.\n\nAlém dos alunos de Jundiaí, estou a poucos minutos dos alunos das cidades vizinhas que costumo atender pessoalmente com bastante frequência. Principalmente alunos de Várzea Pta, Campo Limpo, Louveira entre outras.\n\nComo entro em contato?\n\nQuer começar suas aulas ou tem alguma dúvida? Entre em contato comigo através da aba “contato” na parte superior do site\n\nPelo meu facebook: https://www.facebook.com/victormanoelguitar\n\nPelo E-mail: contato@vmguitarexperience.com\n\nOu através do Whatsapp: 11-9-6574-8539\n\nEstou esperando por você!\n\nCronograma do curso\n\nSegue a baixo o cronograma resumindo tudo que é ensinado no curso do começo ao fim.\n\nPs: O cronograma só conta com as matérias regulares do curso. Músicas e outros temas relacionados são individuais para cada aluno.\n\nDeixe um comentário\n\nO seu endereço de email não será publicado. Campos obrigatórios marcados com *\n\nComentário *\n\nNome *\n\nEmail *\n\nSite\n\nGuardar o meu nome, email e site neste navegador para a próxima vez que eu comentar.",
+      "sourceImages": [
+        "victor-aulas-de-guitarra.jpg",
+        "Victor-logotipo_Prancheta-1-1536x1536.png",
+        "cronograma-do-curso-3-1086x1536.png",
+        "cronograma-do-curso-2-1086x1536.png"
+      ],
+      "notes": "A quarta imagem referenciada pelo WordPress é a mesma prancha de conteúdo 10–14 do cronograma 2 já baixado em resolução maior; versão de artigo refere cronograma-do-curso-2-2-724x1024.png."
+    },
+    {
+      "route": "/contato/",
+      "title": "Contato - Victor Manoel - Official Website",
+      "pageTitle": "Contato",
+      "sourceText": "Facebook\n\nYour name\n\n\nYour email\n\n\nAssunto\n\n\nYour message (optional)\n\n\nE-mail: contato@vmguitarexperience.com\n\n                      ",
+      "forms": [
+        {
+          "type": "Contact Form 7",
+          "fields": [
+            {
+              "name": "your-name",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "required": false
+            },
+            {
+              "name": "your-subject",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "notes": "O screenshot exibe ícones Facebook e e-mail; a implementação usará React Icons conforme orientação do usuário."
+    },
+    {
+      "route": "/fotos/",
+      "title": "Fotos - Victor Manoel - Official Website",
+      "pageTitle": "Fotos",
+      "sourceText": "",
+      "sourceImages": [
+        "show-guitarra-vermelha.jpg",
+        "retrato-no-jardim.jpg",
+        "maos-na-guitarra.jpg",
+        "retrato-junto-a-cerca.jpg",
+        "apresentacao-no-palco.jpg",
+        "detalhe-guitarra-vermelha.jpg",
+        "guitarra-branca-na-cerca.jpg",
+        "violao-ao-ar-livre.jpg",
+        "palco-iluminado.jpg",
+        "guitarra-na-escada-de-tijolos.jpg",
+        "sala-de-musica.jpg",
+        "banda-ao-vivo.jpg",
+        "retrato-junto-a-janela.jpg",
+        "logo-circulo-curso-de-guitarra-2-1530x1536.png",
+        "guitarra-preta-cenario-industrial.jpg",
+        "guitarrista-camisa-xadrez.jpg"
+      ],
+      "notes": "Galeria visual com 16 imagens, sem texto e sem links/lightbox nos itens."
+    },
+    {
+      "route": "/category/aulasdemusica/",
+      "title": "Arquivo de Aulas de Música - Victor Manoel - Official Website",
+      "pageTitle": "Categoria: Aulas De Música",
+      "sourceText": "Aulas de Música\nAulas de Guitarra\n10/01/2022VictorM Leave a Comment\non Aulas de Guitarra\n\nAulas de guitarra – Aulas em Jundiaí-SP e online em todo Brasil! Como Surgiu? Ao…\nContinue reading\nAulas de Guitarra\n\nCursos\n\nAulas de guitarra e aulas de violão presenciais na cidade de Jundiaí e/ou região e online em tempo real em qualquer lugar do Brasil!\n\nBiografia\n\nIngressei no mundo da guitarra quando criança há 16 anos atrás. Desde então atuei em diversas bandas, trabalhos freelancer, gravações e também como professor de música, trabalho esse que já me dedico a 8 anos.",
+      "notes": "Archive com um único artigo; sidebar inclui Cursos e Biografia."
+    },
+    {
+      "route": "/author/victorm/",
+      "title": "VictorM, autor em Victor Manoel - Official Website",
+      "pageTitle": "Autor: VictorM",
+      "sourceText": "Aulas de Música\nAulas de Guitarra\n10/01/2022VictorM Leave a Comment\non Aulas de Guitarra\n\nAulas de guitarra – Aulas em Jundiaí-SP e online em todo Brasil! Como Surgiu? Ao…\nContinue reading\nAulas de Guitarra\n\nCursos\n\nAulas de guitarra e aulas de violão presenciais na cidade de Jundiaí e/ou região e online em tempo real em qualquer lugar do Brasil!\n\nBiografia\n\nIngressei no mundo da guitarra quando criança há 16 anos atrás. Desde então atuei em diversas bandas, trabalhos freelancer, gravações e também como professor de música, trabalho esse que já me dedico a 8 anos.",
+      "notes": "Archive do autor com o mesmo artigo e widgets do archive por categoria."
+    }
+  ],
+  "gallery": [
+    {
+      "order": 1,
+      "fileName": "show-guitarra-vermelha.jpg",
+      "description": "Performance ao vivo com guitarra vermelha e luzes coloridas.",
+      "localPath": "assets/images/show-guitarra-vermelha.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cd7b065c-21af-4933-aa95-72ec14eb1ef1-1.jpg"
+    },
+    {
+      "order": 2,
+      "fileName": "retrato-no-jardim.jpg",
+      "description": "Guitarrista sentado em ambiente externo/jardim.",
+      "localPath": "assets/images/retrato-no-jardim.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/ft-4_Easy-Resize.com_-1536x1024.jpg"
+    },
+    {
+      "order": 3,
+      "fileName": "maos-na-guitarra.jpg",
+      "description": "Close das mãos tocando guitarra em ambiente escuro.",
+      "localPath": "assets/images/maos-na-guitarra.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/18738678_1370923262987331_6318300113036381660_o.jpg"
+    },
+    {
+      "order": 4,
+      "fileName": "retrato-junto-a-cerca.jpg",
+      "description": "Retrato de corpo inteiro com guitarra junto a uma cerca.",
+      "localPath": "assets/images/retrato-junto-a-cerca.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303709_Easy-Resize.com_-e1642117340337-1356x1536.jpg"
+    },
+    {
+      "order": 5,
+      "fileName": "apresentacao-no-palco.jpg",
+      "description": "Apresentação ao vivo no palco.",
+      "localPath": "assets/images/apresentacao-no-palco.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/19477761_1401843196562004_1069566695403337006_o.jpg"
+    },
+    {
+      "order": 6,
+      "fileName": "detalhe-guitarra-vermelha.jpg",
+      "description": "Close de guitarra vermelha.",
+      "localPath": "assets/images/detalhe-guitarra-vermelha.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/8f8b23fd-0310-4e33-bb42-6cc55b9b7459.jpg"
+    },
+    {
+      "order": 7,
+      "fileName": "guitarra-branca-na-cerca.jpg",
+      "description": "Guitarrista em frente a uma cerca, com guitarra branca.",
+      "localPath": "assets/images/guitarra-branca-na-cerca.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303743_Easy-Resize.com_.jpg"
+    },
+    {
+      "order": 8,
+      "fileName": "violao-ao-ar-livre.jpg",
+      "description": "Violão acústico tocado sentado ao ar livre.",
+      "localPath": "assets/images/violao-ao-ar-livre.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/ft-13_Easy-Resize.com_-1536x1024.jpg"
+    },
+    {
+      "order": 9,
+      "fileName": "palco-iluminado.jpg",
+      "description": "Guitarrista em palco iluminado.",
+      "localPath": "assets/images/palco-iluminado.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/db039252-5fa2-448d-a700-8c4c133c2196.jpg"
+    },
+    {
+      "order": 10,
+      "fileName": "guitarra-na-escada-de-tijolos.jpg",
+      "description": "Pessoa agachada junto a escadas de tijolo com guitarra.",
+      "localPath": "assets/images/guitarra-na-escada-de-tijolos.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/450c7939-4666-4d7e-9cf4-4bec1c1ca52b.jpg"
+    },
+    {
+      "order": 11,
+      "fileName": "sala-de-musica.jpg",
+      "description": "Sala de música com parede vermelha, guitarras e equipamentos.",
+      "localPath": "assets/images/sala-de-musica.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/47393055_288417795140459_9020441480728150016_o.jpg"
+    },
+    {
+      "order": 12,
+      "fileName": "banda-ao-vivo.jpg",
+      "description": "Banda tocando ao vivo diante do público.",
+      "localPath": "assets/images/banda-ao-vivo.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/80197625_2677904635764565_4848084806560382976_o.jpg"
+    },
+    {
+      "order": 13,
+      "fileName": "retrato-junto-a-janela.jpg",
+      "description": "Guitarrista junto a janela/escada.",
+      "localPath": "assets/images/retrato-junto-a-janela.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/ft-1_Easy-Resize.com_.jpg"
+    },
+    {
+      "order": 14,
+      "fileName": "logo-circulo-curso-de-guitarra-2-1530x1536.png",
+      "description": "Logo circular do curso de guitarra.",
+      "localPath": "assets/images/logo-circulo-curso-de-guitarra-2-1530x1536.png",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/logo-circulo-curso-de-guitarra-2-1530x1536.png"
+    },
+    {
+      "order": 15,
+      "fileName": "guitarra-preta-cenario-industrial.jpg",
+      "description": "Pessoa sentada com guitarra preta em cenário industrial.",
+      "localPath": "assets/images/guitarra-preta-cenario-industrial.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303758_Easy-Resize.com_-2.jpg"
+    },
+    {
+      "order": 16,
+      "fileName": "guitarrista-camisa-xadrez.jpg",
+      "description": "Guitarrista de camisa xadrez tocando no palco.",
+      "localPath": "assets/images/guitarrista-camisa-xadrez.jpg",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/43865782-017b-43f7-aede-0939fb2179f3.jpg"
+    }
+  ],
+  "assets": {
+    "images": [
+      {
+        "fileName": "capa-victor.jpg",
+        "category": "background",
+        "description": "Imagem de capa comum do header.",
+        "localPath": "assets/images/capa-victor.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cropped-AirBrush_20220111040823-1.jpg"
+      },
+      {
+        "fileName": "fundo-tijolos.jpg",
+        "category": "background",
+        "description": "Textura escura repetida no fundo do corpo.",
+        "localPath": "assets/images/fundo-tijolos.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/tij-def.jpg"
+      },
+      {
+        "fileName": "overlay.png",
+        "category": "theme-overlay",
+        "description": "Overlay visual do tema Consultare.",
+        "localPath": "assets/images/overlay.png",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/themes/consultare/images/overlay.png"
+      },
+      {
+        "fileName": "retrato-do-curso.jpg",
+        "category": "course-photo",
+        "description": "Foto da página Curso de Guitarra.",
+        "localPath": "assets/images/retrato-do-curso.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303758_Easy-Resize.com_.jpg"
+      },
+      {
+        "fileName": "cronograma-do-curso-1-1086x1536.png",
+        "category": "course-material",
+        "description": "Cronograma do curso, imagem 1.",
+        "localPath": "assets/images/cronograma-do-curso-1-1086x1536.png",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cronograma-do-curso-1-1086x1536.png"
+      },
+      {
+        "fileName": "cronograma-do-curso-2-1086x1536.png",
+        "category": "course-material",
+        "description": "Cronograma do curso, imagem 2.",
+        "localPath": "assets/images/cronograma-do-curso-2-1086x1536.png",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cronograma-do-curso-2-1086x1536.png"
+      },
+      {
+        "fileName": "victor-aulas-de-guitarra.jpg",
+        "category": "article-photo",
+        "description": "Foto principal do artigo Aulas de Guitarra.",
+        "localPath": "assets/images/victor-aulas-de-guitarra.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303709.jpg"
+      },
+      {
+        "fileName": "Victor-logotipo_Prancheta-1-1536x1536.png",
+        "category": "logo",
+        "description": "Logo Victor Manoel usado no artigo.",
+        "localPath": "assets/images/Victor-logotipo_Prancheta-1-1536x1536.png",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/Victor-logotipo_Prancheta-1-1536x1536.png"
+      },
+      {
+        "fileName": "cronograma-do-curso-3-1086x1536.png",
+        "category": "course-material",
+        "description": "Cronograma publicado dentro do artigo.",
+        "localPath": "assets/images/cronograma-do-curso-3-1086x1536.png",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cronograma-do-curso-3-1086x1536.png"
+      },
+      {
+        "fileName": "show-guitarra-vermelha.jpg",
+        "category": "gallery",
+        "description": "Performance ao vivo com guitarra vermelha e luzes coloridas.",
+        "localPath": "assets/images/show-guitarra-vermelha.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cd7b065c-21af-4933-aa95-72ec14eb1ef1-1.jpg"
+      },
+      {
+        "fileName": "retrato-no-jardim.jpg",
+        "category": "gallery",
+        "description": "Guitarrista sentado em ambiente externo/jardim.",
+        "localPath": "assets/images/retrato-no-jardim.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/ft-4_Easy-Resize.com_-1536x1024.jpg"
+      },
+      {
+        "fileName": "maos-na-guitarra.jpg",
+        "category": "gallery",
+        "description": "Close das mãos tocando guitarra em ambiente escuro.",
+        "localPath": "assets/images/maos-na-guitarra.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/18738678_1370923262987331_6318300113036381660_o.jpg"
+      },
+      {
+        "fileName": "retrato-junto-a-cerca.jpg",
+        "category": "gallery",
+        "description": "Retrato de corpo inteiro com guitarra junto a uma cerca.",
+        "localPath": "assets/images/retrato-junto-a-cerca.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303709_Easy-Resize.com_-e1642117340337-1356x1536.jpg"
+      },
+      {
+        "fileName": "apresentacao-no-palco.jpg",
+        "category": "gallery",
+        "description": "Apresentação ao vivo no palco.",
+        "localPath": "assets/images/apresentacao-no-palco.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/19477761_1401843196562004_1069566695403337006_o.jpg"
+      },
+      {
+        "fileName": "detalhe-guitarra-vermelha.jpg",
+        "category": "gallery",
+        "description": "Close de guitarra vermelha.",
+        "localPath": "assets/images/detalhe-guitarra-vermelha.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/8f8b23fd-0310-4e33-bb42-6cc55b9b7459.jpg"
+      },
+      {
+        "fileName": "guitarra-branca-na-cerca.jpg",
+        "category": "gallery",
+        "description": "Guitarrista em frente a uma cerca, com guitarra branca.",
+        "localPath": "assets/images/guitarra-branca-na-cerca.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303743_Easy-Resize.com_.jpg"
+      },
+      {
+        "fileName": "violao-ao-ar-livre.jpg",
+        "category": "gallery",
+        "description": "Violão acústico tocado sentado ao ar livre.",
+        "localPath": "assets/images/violao-ao-ar-livre.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/ft-13_Easy-Resize.com_-1536x1024.jpg"
+      },
+      {
+        "fileName": "palco-iluminado.jpg",
+        "category": "gallery",
+        "description": "Guitarrista em palco iluminado.",
+        "localPath": "assets/images/palco-iluminado.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/db039252-5fa2-448d-a700-8c4c133c2196.jpg"
+      },
+      {
+        "fileName": "guitarra-na-escada-de-tijolos.jpg",
+        "category": "gallery",
+        "description": "Pessoa agachada junto a escadas de tijolo com guitarra.",
+        "localPath": "assets/images/guitarra-na-escada-de-tijolos.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/450c7939-4666-4d7e-9cf4-4bec1c1ca52b.jpg"
+      },
+      {
+        "fileName": "sala-de-musica.jpg",
+        "category": "gallery",
+        "description": "Sala de música com parede vermelha, guitarras e equipamentos.",
+        "localPath": "assets/images/sala-de-musica.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/47393055_288417795140459_9020441480728150016_o.jpg"
+      },
+      {
+        "fileName": "banda-ao-vivo.jpg",
+        "category": "gallery",
+        "description": "Banda tocando ao vivo diante do público.",
+        "localPath": "assets/images/banda-ao-vivo.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/80197625_2677904635764565_4848084806560382976_o.jpg"
+      },
+      {
+        "fileName": "retrato-junto-a-janela.jpg",
+        "category": "gallery",
+        "description": "Guitarrista junto a janela/escada.",
+        "localPath": "assets/images/retrato-junto-a-janela.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/ft-1_Easy-Resize.com_.jpg"
+      },
+      {
+        "fileName": "logo-circulo-curso-de-guitarra-2-1530x1536.png",
+        "category": "gallery",
+        "description": "Logo circular do curso de guitarra.",
+        "localPath": "assets/images/logo-circulo-curso-de-guitarra-2-1530x1536.png",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/logo-circulo-curso-de-guitarra-2-1530x1536.png"
+      },
+      {
+        "fileName": "guitarra-preta-cenario-industrial.jpg",
+        "category": "gallery",
+        "description": "Pessoa sentada com guitarra preta em cenário industrial.",
+        "localPath": "assets/images/guitarra-preta-cenario-industrial.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/1970-01-19-063303758_Easy-Resize.com_-2.jpg"
+      },
+      {
+        "fileName": "guitarrista-camisa-xadrez.jpg",
+        "category": "gallery",
+        "description": "Guitarrista de camisa xadrez tocando no palco.",
+        "localPath": "assets/images/guitarrista-camisa-xadrez.jpg",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/43865782-017b-43f7-aede-0939fb2179f3.jpg"
+      }
+    ],
+    "localImageCount": 25,
+    "icons": {
+      "implementation": "React Icons",
+      "observedInlineIcons": [
+        "Facebook",
+        "E-mail/envelope",
+        "WhatsApp"
+      ],
+      "brokenThemeGlyphs": "Phone, search, breadcrumb, menu and back-to-top glyphs render as empty squares in the captured site."
+    },
+    "fonts": [
+      {
+        "family": "Roboto Slab",
+        "localPath": "assets/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+        "fileName": "robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2"
+      },
+      {
+        "family": "Roboto",
+        "localPath": "assets/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+        "fileName": "roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2"
+      },
+      {
+        "family": "Sura",
+        "localPath": "assets/fonts/sura-szc53fl5pbyzluj7tzrmka.woff2",
+        "fileName": "sura-szc53fl5pbyzluj7tzrmka.woff2",
+        "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/elementor/google-fonts/fonts/sura-szc53fl5pbyzluj7tzrmka.woff2"
+      }
+    ],
+    "unbundledFont": {
+      "family": "Oswald",
+      "sourceUrl": "https://fonts.gstatic.com/s/oswald/v57/TK3iWkUHHAIjg752GT8G.woff2",
+      "reason": "A exportação do navegador falhou para esse recurso remoto."
+    },
+    "unbundledImageVariant": {
+      "localEquivalent": "assets/images/cronograma-do-curso-2-1086x1536.png",
+      "verification": "Mesmo material visual dos tópicos 10–14 e da marca d'água; arquivo local em resolução maior.",
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cronograma-do-curso-2-2-724x1024.png",
+      "fileName": "cronograma-do-curso-2-2-724x1024.png"
+    }
+  },
+  "audit": {
+    "galleryImageCount": 16,
+    "copiedUniqueImageCount": 25,
+    "imageUrlVariantNotCopied": {
+      "sourceUrl": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cronograma-do-curso-2-2-724x1024.png",
+      "localEquivalent": "assets/images/cronograma-do-curso-2-1086x1536.png",
+      "verification": "Comparação visual: mesmo conteúdo de tópicos 10–14, watermark e composição; a versão local tem resolução maior."
+    },
+    "faviconNotDownloaded": "https://vmguitarexperience.com/wp-content/uploads/2022/01/cropped-logo-topo-site-e1664260599153-32x32.png",
+    "fonts": {
+      "body": "Roboto Slab",
+      "headingsAndNavigation": "Oswald",
+      "alsoLoaded": "Roboto, Poppins, Sura",
+      "icons": "React Icons will be used in the replica."
+    },
+    "backgrounds": {
+      "hero": "assets/images/capa-victor.jpg",
+      "bodyTexture": "assets/images/fundo-tijolos.jpg",
+      "themeOverlay": "assets/images/overlay.png"
+    },
+    "routesObserved": [
+      "/",
+      "/curso-de-guitarra/",
+      "/aulas-de-guitarra/",
+      "/contato/",
+      "/fotos/",
+      "/category/aulasdemusica/",
+      "/author/victorm/"
+    ],
+    "statesObserved": [
+      "/?s=guitarra",
+      "/page/2/ (404)"
+    ],
+    "responsive": "Desktop 1280 px and mobile 390 px viewport (captured inner width 375 px); mobile menu/top bar and single-column gallery checked.",
+    "notes": [
+      "No form was submitted.",
+      "The article's WordPress comment form is present.",
+      "The contact form's visible fields are optional in source markup.",
+      "Gallery images have no lightbox links.",
+      "Sitemap and rendered page inventory were checked."
+    ]
+  },
+  "media": {
+    "articleVideoYouTubeId": "Ur5QIltGyv0"
+  }
+}
